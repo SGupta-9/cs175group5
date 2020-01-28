@@ -23,7 +23,12 @@ The easiest way to determine if our agent is successful in its mission is by see
 
 ## Goals:
 ### Minimum Goal:
+- Milestone 1: The agent will be able to navigate a simple environment with no obstacles. 
+- Milestone 2: There will be lava on the ground and walls, so the agent will have to find the correct 
+path to the reward.
 
 ### Realistic Goal:
 
 ### Ambitious Goal:
+
+
