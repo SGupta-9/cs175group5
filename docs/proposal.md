@@ -22,4 +22,3 @@ to reveal shortest path.
 The easiest way to determine if our agent is successful in its mission is by seeing if it is able to reach the end goal. First, we will train the agent in a simple environment (with no obstacles) and give a reward for reaching the goal state. Once the agent is able to complete that mission, we will add obstacles to the environment and adjust the rewards accordingly. For example, we can give a higher reward if the agent is able to avoid/break down an obstacle and continue forward.
 
 ## Goals:
-test
