@@ -33,3 +33,6 @@ path to the reward.
 
 ### Ambitious Goal:
 Milestone: Create a destructable obstacle in between the agent and the goal object such that the agent has to destroy the obstacle to reach the goal object. Our agent would try to reach the goal object in the shortest amount of time possible.
+
+### Appointment with Instructor
+Tuesday January 28th, 2020 from 12:45pm-1:00pm (DBH 4064)
