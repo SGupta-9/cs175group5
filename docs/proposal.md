@@ -8,14 +8,14 @@ The focus of our project is path finding. Our goal is to build an agent that can
 
 ## Evaluation Plan:
 ### Quantitative Evaluation
-Time would be our most important metric, which we would measure in seconds. 
-We would want the agent to find the reward in the shortest time possible. 
+Time would be our most important metric, which we would measure in seconds.
+We would want the agent to find the reward in the shortest time possible.
 Distance is another important metric, which can be measured in blocks or meters.
-We can use distance to determine if agent can find the most efficient path to 
-the goal. Additionally, we also want to keep track of number of moves taken. 
+We can use distance to determine if agent can find the most efficient path to
+the goal. Additionally, we also want to keep track of number of moves taken.
 If possible within the time line of the course, we would want to train the agent
 to minimize the number of moves taken throught clearing obstacles in the environment
-to reveal shortest path. 
+to reveal shortest path.
 
 
 ### Qualitative Evaluation
@@ -23,12 +23,10 @@ The easiest way to determine if our agent is successful in its mission is by see
 
 ## Goals:
 ### Minimum Goal:
-- Milestone 1: The agent will be able to navigate a simple environment with no obstacles. 
-- Milestone 2: There will be lava on the ground and walls, so the agent will have to find the correct 
+- Milestone 1: The agent will be able to navigate a simple environment with no obstacles.
+- Milestone 2: There will be lava on the ground and walls, so the agent will have to find the correct
 path to the reward.
 
 ### Realistic Goal:
-
+111
 ### Ambitious Goal:
-
-
