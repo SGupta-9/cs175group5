@@ -30,7 +30,7 @@ path to the reward.
 ### Realistic Goal:
 - Milestone 1: Given multiple paths to the goal, the agent would be above to take 
 the most efficient one. 
-- Milestone 2: Our agent would achieve efficiency in number of moves take sdflj
+- Milestone 2: Our agent would achieve efficiency in number of moves taken and distance travel.
 
 ### Ambitious Goal:
 
