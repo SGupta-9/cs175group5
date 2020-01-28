@@ -28,6 +28,9 @@ The easiest way to determine if our agent is successful in its mission is by see
 path to the reward.
 
 ### Realistic Goal:
+- Milestone 1: Given multiple paths to the goal, the agent would be above to take 
+the most efficient one. 
+- Milestone 2: Our agent would achieve efficiency in number of moves take sdflj
 
 ### Ambitious Goal:
 
