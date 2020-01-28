@@ -3,14 +3,14 @@ layout: default
 title:  Team
 ---
 
-# {{ page.title }}
+# Team Members
 
 
 ## USER 1
-***UCI Net ID***: ucinetid
+***Sky Nguyen***: skyn
 
 ## USER 2
-***UCI Net ID***: ucinetid
+***Runqi Zhang***: runqiz
 
 ## USER 3
-***UCI Net ID***: ucinetid
+***Suchita Gupta***: suchitag
