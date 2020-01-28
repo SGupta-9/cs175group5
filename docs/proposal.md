@@ -22,17 +22,17 @@ to reveal shortest path.
 The easiest way to determine if our agent is successful in its mission is by seeing if it is able to reach the end goal. First, we will train the agent in a simple environment (with no obstacles) and give multiple rewards along the way until the goal state is reached. Once the agent is able to complete that mission, we will add obstacles to the environment and adjust the rewards accordingly. For example, we can give a higher reward if the agent is able to avoid/break down an obstacle and continue forward.
 
 ## Goals:
-### Minimum Goal:
+### Minimum Goal
 - Milestone 1: The agent will be able to navigate a simple environment with no obstacles.
 - Milestone 2: There will be lava on the ground and walls, so the agent will have to find the correct
 path to the reward.
 
-### Realistic Goal:
+### Realistic Goal
 - Milestone 1: Given multiple paths to the goal, the agent would be above to take the most efficient one.
 - Milestone 2: Our agent would achieve efficiency in number of moves taken and distance travel.
 
-### Ambitious Goal:
+### Ambitious Goal
 Milestone: Create a destructable obstacle in between the agent and the goal object such that the agent has to destroy the obstacle to reach the goal object. Our agent would try to reach the goal object in the shortest amount of time possible.
 
-### Appointment with Instructor
+## Appointment with Instructor:
 Tuesday January 28th, 2020 from 12:45pm-1:00pm (DBH 4064)
