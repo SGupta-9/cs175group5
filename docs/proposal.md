@@ -28,9 +28,8 @@ The easiest way to determine if our agent is successful in its mission is by see
 path to the reward.
 
 ### Realistic Goal:
-- Milestone 1: Given multiple paths to the goal, the agent would be above to take
-the most efficient one. 
-- Milestone 2: Our agent would achieve efficiency in number of moves take.
+- Milestone 1: Given multiple paths to the goal, the agent would be above to take the most efficient one.
+- Milestone 2: Our agent would achieve efficiency in number of moves taken and distance travel.
 
 ### Ambitious Goal:
 Milestone: Create a destructable obstacle in between the agent and the goal object such that the agent has to destroy the obstacle to reach the goal object. Our agent would try to reach the goal object in the shortest amount of time possible.
